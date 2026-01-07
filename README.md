@@ -84,6 +84,5 @@ release_date = "2021-10-10"
 
 ## Data Sources
 
-- A List of links pointing to various sources
-- For example:
-- [Carto Metro Paris Metro Map](http://carto.metro.free.fr/cartes/metro-paris/)
+- [Cab Ride Automnal 4K // de Sain-Bel à Lyon-St-Paul [Tram-Train Ouest Lyonnais] - MetroGone (Youtube)](https://www.youtube.com/watch?v=t0b_fLT1xUU)
+- [Cab Ride 4K de Brignais à Lyon-St-Paul - MetroGone (Youtube)](https://www.youtube.com/watch?v=eimhNG0yz7c)
