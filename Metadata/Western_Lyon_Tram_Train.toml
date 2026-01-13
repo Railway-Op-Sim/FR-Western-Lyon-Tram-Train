@@ -1,7 +1,7 @@
 rly_file = "Western_Lyon_Tram_Train.rly"
 ttb_files = [ "Lyon_Tram_Train_Jan_2026.ttb",]
 img_files = [ "Western_Lyon_Tram_Train.bmp",]
-doc_files = ["README.pdf",]
+doc_files = [ "README.pdf",]
 release_date = "2026-01-07"
 version = "1.0.0"
 country_code = "FR"
